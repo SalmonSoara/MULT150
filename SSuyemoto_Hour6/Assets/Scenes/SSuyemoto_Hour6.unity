@@ -503,8 +503,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1340946656}
-  m_LocalRotation: {x: 0.2757156, y: 0.6905745, z: 0.32621512, w: -0.58367074}
-  m_LocalPosition: {x: 89.07067, y: -51.650116, z: 47.657722}
+  m_LocalRotation: {x: 0.07359489, y: 0.9216171, z: 0.21618153, w: -0.3138014}
+  m_LocalPosition: {x: 119.20712, y: 0.7718582, z: 180.8027}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -785,7 +785,7 @@ GameObject:
   - component: {fileID: 2104282304}
   - component: {fileID: 2104282303}
   m_Layer: 0
-  m_Name: Terrain
+  m_Name: Demo Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
