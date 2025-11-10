@@ -19,7 +19,7 @@ public class TriggerScript : MonoBehaviour
     
     void OnTriggerEnter(Collider other)
     {
-        print(other.gameObject.name + " has entered the " + this.gameObject.name/*gameObject.ToString()*/ /*name*/); //none of these work to say "RTrigger/LTrigger"... ?
+        print(other.gameObject.name + " has entered the " + this.gameObject.name/*gameObject.ToString()*/ /*name*/);
     }
     void OnTriggerStay(Collider other)
     {
