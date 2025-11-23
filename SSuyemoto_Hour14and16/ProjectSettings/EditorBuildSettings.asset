@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ssuyemoto_Hour14.unity
+    guid: a97697c377b0ace4eb3ab6164b04cc9d
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 8709aabce4bfc75438cf7dfced86671f
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: edb4630db5a39c049899cf84c8cc9fb6
+  m_configObjects: {}
