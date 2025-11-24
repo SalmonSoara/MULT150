@@ -5,5 +5,4 @@
  * -Duplicated the Start button to make a placeholder Settings button
  * -Created a How to Play button, then edited the level manager script to lead to a How to Play page
  * -Created a simple instructional page for the game; created a button to return to the main menu
- 
  */
